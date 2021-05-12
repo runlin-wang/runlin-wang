@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @Leo
-- 👀 I’m interested in Golang, NeoVim and Terminal.
-- 🌱 I’m currently learning Java, Golang, Python...
-- 📫 How to reach me [email](mailto:alin.run@foxmail.com)
+## Hi 👋 , I'm [Leo](https://runlin.live/)
 
-<!---
-- 💞️ I’m looking to collaborate on ...  
---->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runlin-wang&layout=compact" />
 
-<!---
-runlin-wang/runlin-wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Read more about my [Blog](https://runlin.live/blog)
+- Talk with me by [Email](mailto:leo@runlin.live)
+- Follow me on [Twitter](https://twitter.com/Leo36363824) [bilibili](https://space.bilibili.com/294989861)
