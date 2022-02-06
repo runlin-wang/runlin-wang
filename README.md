@@ -4,4 +4,4 @@
 
 - Read more about my [Blog](https://wangrunlin.com/blog)
 - Talk with me by [Email](mailto:leo@wangrunlin.com)
-- Follow me on [Twitter](https://twitter.com/Leo36363824) [bilibili](https://space.bilibili.com/294989861)
+- Follow me on [Twitter](https://twitter.com/wangrunlin_) [bilibili](https://space.bilibili.com/294989861)
