@@ -1,4 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangrunlin&layout=compact" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangrunlin&layout=compact" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wangrunlin&count_private=true" />
 
 ## Hi 👋 , I'm [Leo](https://wangrunlin.com/)
 
