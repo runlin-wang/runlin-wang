@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wangrunlin&show_icons=true&count_private=true" alt="Leo's GitHub Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wangrunlin&show_icons=true&count_private=true" alt="Leo's GitHub Stats" />
 
 ## Hi 👋 , I'm [Leo](https://wangrunlin.com/)
 
