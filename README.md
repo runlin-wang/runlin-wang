@@ -4,4 +4,4 @@
 - Talk with me by [Email](mailto:me@alin.run)
 - Follow me on [Twitter](https://twitter.com/wangrunlin_) [bilibili](https://space.bilibili.com/294989861)
 
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wangrunlin&count_private=true)
+![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wangrunlin&show_icons=true&count_private=true)
