@@ -1,8 +1,6 @@
 Hi 👋 My name is Leo Wang
 =========================
 
-![](https://komarev.com/ghpvc/?username=wangrunlin)
-
 Web Developer & Lifelong learner
 --------------------------------
 
@@ -13,6 +11,7 @@ Web Developer & Lifelong learner
 * 🧠  I'm learning Node.js, TypeScript, React, Next.js, ESP32
 * 📖  Read more about my [blog](https://wangrunlin.com/blog)
 
+<img src="https://komarev.com/ghpvc/?username=wangrunlin&style=for-the-badge" />
 <a href="https://www.twitter.com/wangrunlin_" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/wangrunlin_?logo=twitter&style=for-the-badge&color=ffffaf&labelColor=262626" />
 </a>  
