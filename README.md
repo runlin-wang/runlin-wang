@@ -1,6 +1,8 @@
 Hi 👋 My name is Leo Wang
 =========================
 
+![](https://komarev.com/ghpvc/?username=wangrunlin)
+
 Web Developer & Lifelong learner
 --------------------------------
 
