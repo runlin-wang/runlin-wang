@@ -12,6 +12,9 @@ Web Developer & Lifelong learner
 * 📖  Read more about my [blog](https://blog.wangrunlin.com)
 
 <img src="https://komarev.com/ghpvc/?username=wangrunlin&style=for-the-badge" />
+
+[![wakatime](https://wakatime.com/badge/user/f3ceba25-cf5b-45fe-a77e-3408dbb54530.svg?style=for-the-badge)](https://wakatime.com/@wangrunlin)
+
 <a href="https://www.twitter.com/wangrunlin_" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/wangrunlin_?logo=x&style=for-the-badge&color=ffffaf&labelColor=262626" />
 </a>  
