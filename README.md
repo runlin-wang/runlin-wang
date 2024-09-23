@@ -4,12 +4,12 @@ Hi 👋 My name is Leo Wang
 Web Developer & Lifelong learner
 --------------------------------
 
-* 🌍  I'm based in Chengdu China
-* 🖥️  See my portfolio at [alin.run](http://alin.run)
+* 🌍  I'm based in China
+* 🖥️  See my portfolio at [alin.run](https://alin.run)
 * ✉️  You can contact me at [me@alin.run](mailto:me@alin.run)
-* 🚀  I'm currently working on [idea2app](http://ideapp.dev)
+* 🚀  I'm currently working on [idea2app](https://idea2app.cn)
 * 🧠  I'm learning Node.js, TypeScript, React, Next.js, ESP32
-* 📖  Read more about my [blog](https://blog.wangrunlin.com)
+* 📖  Read more about my [website](https://alin.run/about)
 
 <img src="https://komarev.com/ghpvc/?username=wangrunlin&style=for-the-badge" />
 
