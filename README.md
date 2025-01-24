@@ -1,15 +1,13 @@
-Hi 👋 My name is Leo Wang
-=========================
+# Hi 👋 My name is Leo Wang
 
-Web Developer & Lifelong learner
---------------------------------
+## Web Developer & Lifelong learner
 
-* 🌍  I'm based in China
-* 🖥️  See my portfolio at [alin.run](https://alin.run)
-* ✉️  You can contact me at [me@alin.run](mailto:me@alin.run)
-* 🚀  I'm currently working on [idea2app](https://idea2app.cn)
-* 🧠  I'm learning Node.js, TypeScript, React, Next.js, ESP32
-* 📖  Read more about my [website](https://alin.run/about)
+- 🌍  I'm based in China
+- 🖥️  See my portfolio at [alin.run](https://alin.run)
+- ✉️  You can contact me at [me@alin.run](mailto:me@alin.run)
+- 🚀  I'm currently working on [idea2app](https://idea2app.cn)
+- 🧠  I'm learning Node.js, TypeScript, React, Next.js
+- 📖 Read more about my [website](https://alin.run)
 
 <img src="https://komarev.com/ghpvc/?username=wangrunlin&style=for-the-badge" />
 
@@ -60,12 +58,14 @@ Web Developer & Lifelong learner
       width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-
 ### My GitHub Stats
 
 <a href="http://www.github.com/wangrunlin"><img src="https://github-readme-stats.vercel.app/api?username=wangrunlin&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=bcbcbc&icon_color=ffffaf&bg_color=262626&hide_border=true&show_icons=true" alt="wangrunlin's GitHub stats" /></a>
 
-
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/wangrunlin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://ko-fi.com/wangrunlin">
+  <img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fcf48af59c591185_support_me_on_kofi_dark.png" height="48" alt="Support me on Ko-fi" />
+</a>
+
+[Alipay or Wechat Pay Support](https://alin.run/sponsor)
